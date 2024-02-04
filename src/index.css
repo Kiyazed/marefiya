@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.star-rating span{
+  transition: color 0.25s;
+}
